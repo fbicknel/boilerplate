@@ -1,0 +1,4 @@
+# Yes, this is also boilerplate
+.*
+!.gitignore
+*.pyc
